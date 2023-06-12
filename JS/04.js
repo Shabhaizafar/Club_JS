@@ -218,24 +218,6 @@ console.log(n3);
 //     console.log("All are Same");
 // }
 ///////////////////////////
-// ● Switch statement
-// ● While loop
-// ● While loop examples
-// ● For loop
-// ● For loop examples
-// ● Break and continue keyword
-// ● Do while loop
 
 
 
-// // 
-// Write a JavaScript program to check whether a given number is even or odd.
-// Write a JavaScript program to find the largest among three numbers.
-// Write a JavaScript program to check if a year is a leap year or not.
-// Write a JavaScript program to determine the grade of a student based on their marks.
-// Write a JavaScript program to check if a given character is a vowel or consonant.
-// Write a JavaScript program to check if a given string is palindrome or not.
-// Write a JavaScript program to calculate the factorial of a number.
-// Write a JavaScript program to check if a given number is prime or not.
-// Write a JavaScript program to find the roots of a quadratic equation.
-// Write a JavaScript program to convert temperature from Celsius to Fahrenheit and vice versa.
