@@ -27,8 +27,8 @@
 // // 1) length 
 // console.log(str[str.length-1]);
 ////////////////////////////////////////////////////
-var str = "                 Royal Technsoft P Ltd             ";
-console.log(str);
+// var str = "                 Royal Technsoft P Ltd             ";
+// console.log(str);
 
 //1) str.charAt
 // console.log(str[10]);
@@ -73,12 +73,42 @@ console.log(str);
 // str.trimStart
 // console.log(str.trimStart())
 
+// /30-04-2024/
+// var str = "Royal Technosoft p ltd";
+// console.log("Main String : ",str);
+// str.split  // covert in an Array
+// console.log(str.split());
+// console.log(str.split(''));
+// console.log(str.split(' '));
+// console.log(str.split('o'));
 
-// str.split
+
 // str.slice
-// str.substring
+        // 1) starting point(index)  2) ending point(index)
+// console.log(str.slice(10,6));
+// // str.substring
+//         // starting point(index)  and  ending point(index)
+// console.log(str.substring(10,6));
+// console.log(str.substring(6,10));
+
+
 // str.substr 
+                //1) starting point (index)  2) length
+// console.log(str.substr(6,10));
 
 
+////////////////////////////////////
 
-// note + pen 
+var fname = "Raj";
+var lname = "Patel";
+var Age = 10;
+
+console.log("My name is Raj Patel.and i am 10 year old.");
+
+
+// console.log("My name is",fname,lname,".and i am",Age,"year old.");
+// console.log("My name is "+fname,lname+".and i am",Age,"year old.");
+
+//String Template
+
+console.log(`My name is ${fname} ${lname}.and i am ${Age} year old.`);
