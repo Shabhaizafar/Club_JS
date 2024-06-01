@@ -42,8 +42,6 @@
 
 
 ////////////////////////////
-
-
 // /////////////////////////////////////
 // ✅ More about variable.
 //  start with only char or _ or $
@@ -59,14 +57,3 @@
 // const n1 = 13;
 // console.log(n1);
 /////////////////////////
-
-// ------------------------------
-// ✅ Null, undefined, BigInt, typeof.
-// ✅ Booleans and Comparison Operator.
-// ✅ Truthy and Falsy Values :
-
-
-///////////////////////////////////////
-// ✅ String Indexing.
-// ✅ Useful string methods.
-// ✅ Template Strings.
