@@ -67,17 +67,15 @@
 
 ///////////////////////////////
 
-// 1. **Dot Notation vs Bracket Notation:**
-//    - Write a function that accepts an object and a property name as arguments. Implement the function to retrieve the value of the property using both dot notation and bracket notation.
-   
-// 2. **Iterate Over Object Properties:**
-//    - Create an object with several properties (e.g., name, age, city). Write a function that iterates over the properties of the object and prints each property and its value.
-   
-// 3. **Computed Properties:**
-//    - Write a function that creates an object dynamically based on user input. Prompt the user to enter key-value pairs until they indicate they are done. Use these inputs to create an object with computed property names.
-   
-// 5. **Manipulating Object Properties:**
-//    - Implement a function that takes an object and a key as parameters. Check if the object has a property with that key. If it does, remove the property; if not, add the key with a default value to the object.
+
+// 1. Access a property of an object using both dot notation and bracket notation.
+
+// 2. Iterate over the properties of an object and print each property and its value.
+
+// 3. Dynamically create an object based on user input, using computed property names.
+
+
+// 5. Implement a check and manipulation of an object's properties: if a property exists, delete it; if not, add it with a default value.
 
 
 
