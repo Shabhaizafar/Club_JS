@@ -62,3 +62,21 @@ var sayHello =  ()=>console.log("Hello Everyone,Welcome to Javascript.!!!");
 // 3. Write a JavaScript function that generates all combinations of a string.
 // Example string : 'dog'
 // Expected Output : d,do,dog,o,og,g 
+// var str = "dog";
+// // console.log(str.slice(2,3));
+
+
+// var myFu = (str)=>{
+//     var Arr = [];
+//     for (let i = 0; i < str.length; i++) {
+//         for (let j = 1; j <=str.length; j++) {
+//             if(j>i)
+//             {
+//                 Arr.push(str.slice(i,j));
+//             }
+//         }
+//     }
+//     console.log(Arr.join(','));
+// };
+
+// myFu("Java");
