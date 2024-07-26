@@ -7,17 +7,17 @@
 // )()
 
 
-(
-    function (n1,n2){
-        console.log("Hello Everyone!!!",n1+n2);
-    }
-)(12,13);
+// (
+//     function (n1,n2){
+//         console.log("Hello Everyone!!!",n1+n2);
+//     }
+// )(12,13);
 
-(
-    function (n1,n2){
-        console.log("Hello Everyone!!!",n1+n2);
-    }
-)(12,13);
+// (
+//     function (n1,n2){
+//         console.log("Hello Everyone!!!",n1+n2);
+//     }
+// )(12,13);
 
 
 
