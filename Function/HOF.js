@@ -49,26 +49,42 @@
 // 2. Implement a function `filterArray` that takes an array `arr` and a callback function `callback`. The callback function should return `true` or `false` based on some condition. `filterArray` should return a new array containing only the elements for which the callback function returns `true`.
 
 
-var Arr = [12,1,10,30,34,54,21,9,5,7];
-function filterArray(arr,callback){
-    var newArr = [];
-    for (const iterator of arr) {
-        if(callback(iterator))
-        {
-            newArr.push(iterator);
-        }
-    }
-    return newArr;
-}
+// var Arr = [12,1,10,30,34,54,21,9,5,7];
+// function filterArray(arr,callback){
+//     var newArr = [];
+//     for (const iterator of arr) {
+//         if(callback(iterator))
+//         {
+//             newArr.push(iterator);
+//         }
+//     }
+//     return newArr;
+// }
 
-console.log(filterArray(Arr,All));
+// console.log(filterArray(Arr,All));
 
-function All(n){
-    if(n>20)
-    {
-        return true;
-    }
-    else{
-        return false;
-    }
-}
+// function All(n){
+//     if(n>20)
+//     {
+//         return true;
+//     }
+//     else{
+//         return false;
+//     }
+// }
+
+
+// 5. Create a function `forEach` that takes an array `arr` and a callback function `callback`. `forEach` should call the callback function for each element in the array.
+
+// var Arr = [12,1,10,30,34,54,21,9,5,7];
+// function filterArray(arr,callback){
+//     for (const iterator of arr) {
+//        callback(iterator);
+//     }
+// }
+
+// filterArray(Arr,All);
+
+// function All(n){
+//     console.log(n);
+// }
