@@ -58,10 +58,10 @@
    ✅ Function declaration.
    ✅ Function Expression.
    ✅ Arrow Functions.
-   - Function declarations are hoisted  (covered in great detail  later).
-   - Function inside function.
-   - Lexical Scope.
-   - Block Scope Vs Function Scope.
+   ✅ Function declarations are hoisted  (covered in great detail  later).
+   ✅ Function inside function.
+   ✅ Lexical Scope.
+   ✅ Block Scope Vs Function Scope.
    - Default Parameters.
    - Rest Parameters.
    - Parameter Destructuring.

@@ -28,9 +28,9 @@
 // All();
 
 
-console.log(a);
+// console.log(a);
 
-const a = 12;
+// const a = 12;
 // console.log(a);
 
 // var,let,const are hoisted.
